@@ -1,0 +1,6 @@
+streamlit>=1.30
+scikit-learn==1.8.0
+xgboost==3.4.1
+pandas>=2.0
+numpy>=2.0
+joblib>=1.3
